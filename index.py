@@ -6,7 +6,6 @@ from selenium import webdriver
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import numpy as np
-import pandas as pd
 from collections import Counter
 from PIL import Image
 
