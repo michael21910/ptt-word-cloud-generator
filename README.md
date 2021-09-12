@@ -43,4 +43,6 @@ A word cloud in a fixed picture(you can go to cloud.png to see the picture), wit
 ![ptt-crawling2](https://user-images.githubusercontent.com/78197510/132520900-a84d83e3-8002-436f-a4e5-3e480aebcc7d.png)  
   
 Note that the word cloud image would change since the first 1000 ptt articles are always changing.  
-Michael Hsueh 09/08/2021
+
+## License
+[MIT](LICENSE) © Tsuen Hsueh
