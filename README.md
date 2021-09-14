@@ -32,6 +32,11 @@ pip install pandas
 ```
 * Install "chrome webdriver"  
 Please go to [this webpage](https://chromedriver.chromium.org/) to download
+* Clone this repository
+```
+git clone https://github.com/michael21910/ptt-word-cloud-generator.git
+```
+* Execute the program file "index.py"
   
 ## What will you get :icecream:
 A word cloud in a fixed picture(you can go to cloud.png to see the picture), within the words after web crawling and word hyphenation using jieba.
